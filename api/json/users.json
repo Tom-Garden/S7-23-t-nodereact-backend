@@ -1,0 +1,223 @@
+[
+  {
+    "name": "María García",
+    "userName": "maria_garcia",
+    "email": "maria.garcia@gmail.com",
+    "celphone": "+1-555-1234567",
+    "picture": "https://example.com/maria_garcia.jpg",
+    "type": "admin",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/maria-garcia/",
+      "github": "https://github.com/maria_garcia",
+      "tecnologias": "JavaScript, React, Node.js",
+      "portfolio": "https://maria-garcia-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "backend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Juan López",
+    "userName": "juan_lopez",
+    "email": "juan.lopez@gmail.com",
+    "celphone": "+1-555-9876543",
+    "picture": "https://example.com/juan_lopez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/juan-lopez/",
+      "github": "https://github.com/juan_lopez",
+      "tecnologias": "Python, Django, PostgreSQL",
+      "portfolio": "https://juan-lopez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "fullstack",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Ana Martínez",
+    "userName": "ana_martinez",
+    "email": "ana.martinez@gmail.com",
+    "celphone": "+1-555-7654321",
+    "picture": "https://example.com/ana_martinez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/ana-martinez/",
+      "github": "https://github.com/ana_martinez",
+      "tecnologias": "React, Redux, Express",
+      "portfolio": "https://ana-martinez-portfolio.com"
+    },
+    "fullAcount": false,
+    "role": "frontend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Pedro Pérez",
+    "userName": "pedro_perez",
+    "email": "pedro.perez@gmail.com",
+    "celphone": "+1-555-2345678",
+    "picture": "https://example.com/pedro_perez.jpg",
+    "type": "admin",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/pedro-perez/",
+      "github": "https://github.com/pedro_perez",
+      "tecnologias": "Java, Spring Boot, AWS",
+      "portfolio": "https://pedro-perez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "backend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Lucía Rodríguez",
+    "userName": "lucia_rodriguez",
+    "email": "lucia.rodriguez@gmail.com",
+    "celphone": "+1-555-8765432",
+    "picture": "https://example.com/lucia_rodriguez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/lucia-rodriguez/",
+      "github": "https://github.com/lucia_rodriguez",
+      "tecnologias": "Python, Flask, MongoDB",
+      "portfolio": "https://lucia-rodriguez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "backend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Carlos Pérez",
+    "userName": "carlos_perez",
+    "email": "carlos.perez@gmail.com",
+    "celphone": "+1-555-2468101",
+    "picture": "https://example.com/carlos_perez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/carlos-perez/",
+      "github": "https://github.com/carlos_perez",
+      "tecnologias": "Angular, TypeScript, Node.js",
+      "portfolio": "https://carlos-perez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "frontend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Luisa Ramírez",
+    "userName": "luisa_ramirez",
+    "email": "luisa.ramirez@gmail.com",
+    "celphone": "+1-555-3691215",
+    "picture": "https://example.com/luisa_ramirez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/luisa-ramirez/",
+      "github": "https://github.com/luisa_ramirez",
+      "tecnologias": "React Native, Firebase, Redux",
+      "portfolio": "https://luisa-ramirez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "frontend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Mario Gómez",
+    "userName": "mario_gomez",
+    "email": "mario.gomez@gmail.com",
+    "celphone": "+1-555-7531598",
+    "picture": "https://example.com/mario_gomez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/mario-gomez/",
+      "github": "https://github.com/mario_gomez",
+      "tecnologias": "Java, Spring Boot, MySQL",
+      "portfolio": "https://mario-gomez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "backend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Sofía Castillo",
+    "userName": "sofia_castillo",
+    "email": "sofia.castillo@gmail.com",
+    "celphone": "+1-555-2583697",
+    "picture": "https://example.com/sofia_castillo.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/sofia-castillo/",
+      "github": "https://github.com/sofia_castillo",
+      "tecnologias": "React, GraphQL, Node.js",
+      "portfolio": "https://sofia-castillo-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "fullstack",
+    "acountStatus": "active"
+  },
+  {
+    "name": "David López",
+    "userName": "david_lopez",
+    "email": "david.lopez@gmail.com",
+    "celphone": "+1-555-1234567",
+    "picture": "https://example.com/david_lopez.jpg",
+    "type": "admin",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/david-lopez/",
+      "github": "https://github.com/david_lopez",
+      "tecnologias": "Ruby on Rails, PostgreSQL, AWS",
+      "portfolio": "https://david-lopez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "backend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "María Torres",
+    "userName": "maria_torres",
+    "email": "maria.torres@gmail.com",
+    "celphone": "+1-555-2345678",
+    "picture": "https://example.com/maria_torres.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/maria-torres/",
+      "github": "https://github.com/maria_torres",
+      "tecnologias": "JavaScript, React, Node.js",
+      "portfolio": "https://maria-torres-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "frontend",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Jorge González",
+    "userName": "jorge_gonzalez",
+    "email": "jorge.gonzalez@gmail.com",
+    "celphone": "+1-555-8765432",
+    "picture": "https://example.com/jorge_gonzalez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/jorge-gonzalez/",
+      "github": "https://github.com/jorge_gonzalez",
+      "tecnologias": "Java, Spring, Angular",
+      "portfolio": "https://jorge-gonzalez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "fullstack",
+    "acountStatus": "active"
+  },
+  {
+    "name": "Ana López",
+    "userName": "ana_lopez",
+    "email": "ana.lopez@gmail.com",
+    "celphone": "+1-555-2345678",
+    "picture": "https://example.com/ana_lopez.jpg",
+    "type": "user",
+    "information": {
+      "linkedin": "https://www.linkedin.com/in/ana-lopez/",
+      "github": "https://github.com/ana_lopez",
+      "tecnologias": "Python, Django, PostgreSQL",
+      "portfolio": "https://ana-lopez-portfolio.com"
+    },
+    "fullAcount": true,
+    "role": "backend",
+    "acountStatus": "active"
+  }
+]

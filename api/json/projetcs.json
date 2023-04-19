@@ -1,0 +1,343 @@
+[
+    {
+    "title": "Un plato caliente",
+    "subtitle": "No tiremos la comida",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220823/food_c5xjck.jpg",
+    "description": "Todos los restaurantes a la hora del cierre tiran algo de comida, con nuestra app puedes encontrar alguno cerca y ver que tienen disponible, así la reservas por un costo mínimo y lo pasas a buscar, aprovechando esta gran oferta el usuario y no generando más basura",
+    "autor": "rafael84barreiro",
+    "category": "Alimentación",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": [{
+        "quantity": 2, "position": "Back End"
+    },
+    {
+    "quantity": 2, "position": "Front End"
+    }],
+    "techRequired": ["Figma", "Express", "React Native", "Angular"],
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+    "title": "Criptos News",
+    "subtitle": "Toda la info del mundo cripto en tu mano",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220633/cripto_bom3qm.jpg",
+    "description": "A veces no te cansas de encontrar por toda la Web la información que necesitas saber acerca de tus crypto favoritas? En nuestro sitio podrás encontrar todo en un solo lugar",
+    "autor": "rafael84barreiro",
+    "category": "Criptomonedas",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+    "title": "Patitas en la calle",
+    "subtitle": "Ayúdanos a que todos los perritos encuentren su dueño",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220633/patitasCalle_ibei0u.jpg",
+    "description": "Siempre vemos los panfletos pegados en los postes de perritos que se perdieron, y si pudieras ver todos los que se perdieron cerca de donde te encuentras? Por eso ideamos esta app para que puedas estar actualizado si te importan tus mascotas, y compartirla en tus redes así sea más facil encontrar el hogar. Ya contamos con sitio, solo nos falta el financiamiento para poder contratar el servidor, hosting y alojar nuestra base de datos",
+    "autor": "rafael84barreiro",
+    "category": "ONG",
+    "totalAmount": 25000,
+    "parcialAmount": 17500,
+    "finaldate": "2023/12/20"
+    },
+    {
+    "title": "FIt Your Body",
+    "subtitle": "Quiero que mis clases recorran el mundo",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220823/boxeo_gaprhp.jpg",
+    "description": "Soy Johnatan y soy profesor de boxeo. En la pandemia vi una gran oportunidad y comencé con videos en línea. Ahora quiero expandirme y poder organizar mejor los videos y generar rutinas de entrenamiento personalizadas",
+    "autor": "rafael84barreiro",
+    "category": "Deportes",
+    "totalAmount": 15000,
+    "parcialAmount": 2500,
+    "finaldate": "2023/12/20"
+    },
+    {
+    "title": "Invest your idea",
+    "subtitle": "Queremos que la inversión sea algo de todos",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220823/bank_ld2rws.jpg",
+    "description": "Estamos buscando findanciamiento para crear nuestro banco virtual",
+    "autor": "rafael84barreiro",
+    "category": "Criptomonedas",
+    "totalAmount": 32000,
+    "parcialAmount": 14000,
+    "finaldate": "2023/12/20"
+    },
+    {
+    "title": "Turquia somos todos",
+    "subtitle": "Ayudemos a los afectados",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220633/turquia_oeua1m.jpg",
+    "description": "Las personas afectadas por los terremotos de Turquía necesitan acceder a servicios públicos y contactarse con los negocios locales que estén en funcionamiento. Por eso queremos crear una página para facilitar esos contactos",
+    "autor": "rafael84barreiro",
+    "category": "ONG",
+    "devRequired": [{
+        "quantity": 2, "position": "Back End"
+    },
+    {
+    "quantity": 2, "position": "Front End"
+    },
+    {
+    "quantity": 1, "position": "UX/UI"
+    }],
+    "techRequired": "",
+    "finaldate": "2023/12/20"
+    },
+    {
+    "title": "Conecta tu ciudad",
+    "subtitle": "Me gustaría crear una red social local",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680220632/social_media_ggo137.png",
+    "description": "Tengo la idea de crear una red social, pero con la particularidad que sea para conectar comercios y vecinos locales, de mi ciudad para promover el desarrollo social de mi  barrio",
+    "autor": "rafael84barreiro",
+    "category": "Redes Sociales",
+    "totalAmount": 30000,
+    "parcialAmount": 23000,
+    "devRequired": [{
+        "quantity": 2, "position": "Back End"
+    },
+    {
+    "quantity": 2, "position": "Front End"
+    },
+    {
+    "quantity": 1, "position": "UX/UI"
+    },
+    {
+    "quantity": 1, "position": "Data Science"
+    }],
+    "techRequired": ["React", "MongoDB", "Figma", "Python"],
+    "finaldate": "2023/06/20"
+    },
+    {
+    "title": "ArgExchange",
+    "subtitle": "Fintech de divisas",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680306381/fintech_hivrcn.jpg",
+    "description": "Somos una fintech de cambio de divisas y para poder lanzar nuestro sitio necesitamos ayuda para finalizar el Frontend",
+    "autor": "rafael84barreiro",
+    "category": "Criptomonedas",
+    "devRequired": [
+    {
+    "quantity": 2, "position": "Front End"
+    },
+    {
+    "quantity": 1, "position": "UX/UI"
+    }],
+    "finaldate": "2023/12/20"
+    },
+    {
+    "title": "Social Network",
+    "subtitle": "Analisis de datos",
+    "img": "https://res.cloudinary.com/dvz5m6b4o/image/upload/v1680306696/powerBI_esoc5c.png",
+    "description": "Confeccionar los paneles de datos en Power BI de toda la organización, tomando la información de nuestra base de datos y crear simulaciones para analizar el sentimiento de nuestra comunidad.",
+    "autor": "rafael84barreiro",
+    "category": "Redes Sociales",
+    "devRequired": [
+        {
+        "quantity": 1, "position": "Data Science"
+        },
+        {
+        "quantity": 1, "position": "UX/UI"
+        }],
+    "finaldate": "2023/12/20"
+    },
+    {
+    "title": "Jugemos en equipo",
+    "subtitle": "Un lugar para jugar con amigos",
+    "img": "",
+    "description": "Quieres hacer tu propio torneo de PS5? con nuestra App podrás llevar todas las estadísticas de los partidos con tus amigos, así como crear tu propio torneo y enviarles una invitación a su celu, ya no hay excusas para no juntarse a jugar un buen torneo de fútbol. Para eso necesitamos tu colaboración.",
+    "autor": "rafael84barreiro",
+    "category": "Video Juegos",
+    "totalAmount": 17000,
+    "parcialAmount": 17000,
+    "devRequired": [
+        {
+        "quantity": 1, "position": "FontEnd"
+        },
+        {
+        "quantity": 1, "position": "UX/UI"
+        }],
+    "techRequired": ["React", "Angular", "Vue", "Figma"],
+    "finaldate": "2023/08/20"
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    },
+    {
+        "title": "",
+    "subtitle": "",
+    "img": "",
+    "description": "",
+    "autor": "",
+    "category": "",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "devRequired": "",
+    "finaldate": "2023/12/20"
+    
+    }
+
+]
