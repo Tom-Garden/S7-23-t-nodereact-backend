@@ -114,7 +114,7 @@ const PayCard = async (req, res) => {
       back_urls: {
         success: `s7-23-t-nodereact-backend-production.up.railway.app/api/donations/completed/${donation._id}`,
         failure: `s7-23-t-nodereact-backend-production.up.railway.app/api/donations/failure/${donation._id}`,
-        pending: "http://localhost:3000",
+        pending: "https://s7-23-t-nodereact.vercel.app",
       },
       auto_return: "approved",
     };

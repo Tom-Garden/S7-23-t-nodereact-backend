@@ -101,7 +101,7 @@ const completed = async (req, res) => {
       }
     );
 
-    res.redirect(302, "http://localhost:3000/exito2");
+    res.redirect(302, "https://s7-23-t-nodereact.vercel.app/exito2");
   } catch (error) {
     res.json(error);
   }
@@ -130,7 +130,7 @@ const failure = async (req, res) => {
 
     const rejectedDonation = await Donation.findByIdAndDelete({ _id: id });
 
-    res.redirect(302, "http://localhost:3000");
+    res.redirect(302, "https://s7-23-t-nodereact.vercel.app/");
   } catch (error) {
     res.status(400).json(error.message);
   }
